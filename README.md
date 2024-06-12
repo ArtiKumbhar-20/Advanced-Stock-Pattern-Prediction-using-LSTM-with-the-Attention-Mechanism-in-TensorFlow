@@ -1,0 +1,1 @@
+Advanced Stock Pattern Prediction using LSTM with the Attention Mechanism in TensorFlow Apple Inc. (AAPL) Data. LSTM networks paired with attention mechanisms, focusing on predicting the pattern of the next four candles in the stock price of Apple Inc. (AAPL), utilizing data from Yahoo Finance (yfinance).
